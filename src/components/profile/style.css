@@ -1,0 +1,75 @@
+.mainbody{
+	background-color: #E3E3E3;
+	height: 300px;
+	width: 630px;
+	margin: 0 auto;
+	margin-top: 20px;
+}
+.after{
+	background-color: #27293D;
+	width: 100%;
+	height: 45px;
+}
+.edit{
+	padding-top: 1% !important;
+    padding-left: 5% !important;
+    font-size: 13px !important;
+}
+.organisation{
+	margin-top: 2% !important;
+	margin-left: 5% !important;
+	color: rgb(39, 41, 61);
+	font-size: 12px;
+}
+.fields{
+	    margin-left: 7% ;
+    width: 99% ;
+    height: 30px ;
+    border-radius: 8px;
+    background-color: #27293D ;
+    color: white !important;
+}
+.field{
+	 width: 91% ;
+    height: 30px ;
+    border-radius: 8px;
+    background-color: #27293D ;
+    color: white !important;
+}
+.organize{
+	color:rgb(39, 41, 61);
+	font-size: 12px;
+}
+.fieldss{
+	  margin-left: 7% ;
+    width: 99% ;
+    height: 30px ;
+    border-radius: 8px;
+    background-color: #27293D ;
+    color: white !important;
+}
+.fieldsss{
+	 width: 93% ;
+    height: 30px ;
+    border-radius: 8px;
+    background-color: #27293D ;
+    color: white !important;
+
+}
+.organizer{
+	color:rgb(39, 41, 61);
+	font-size: 12px;
+	margin-left: -42% !important;
+    float: left;
+	margin-top: 3%; 
+	font-family: sans-serif !important;
+
+}
+.lastone{
+	margin-left: 3%;
+	border-radius: 9px;
+	width: 94%;
+	height: 54%;
+	background-color: #27293D;
+	margin-top: 3%;
+}

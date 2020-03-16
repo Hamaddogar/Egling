@@ -1,0 +1,36 @@
+#username{
+	width: 100%;
+	height: 27px;
+
+}
+.inside{
+	text-align: center;
+	color:#27293D ;
+}
+.main{
+	background-color: white;
+	height: 366px;
+	width: 43%;
+	float: right;
+	margin-top: 5%;
+	margin-right: 4%;
+	overflow: hidden;
+}
+.first{
+	height: 60px;
+	margin-left: 15%;
+	width: 100%;
+	margin-top: 1%
+}
+#pass{
+	width: 100%;
+	height: 27px;
+}
+.left
+{
+	float: left;
+	height: 600px ;
+	width: 50%;
+	
+
+}
